@@ -1,4 +1,4 @@
-# registrationportal
+# registration
 this application contains all the user registration data
 
 #login
